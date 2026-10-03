@@ -6,7 +6,7 @@ greenlet
 itsdangerous
 Jinja2
 MarkupSafe
-psycopg2-binary
+psycopg[binary]
 SQLAlchemy
 typing_extensions
 Werkzeug
